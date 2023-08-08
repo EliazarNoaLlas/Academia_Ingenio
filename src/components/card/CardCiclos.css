@@ -1,0 +1,62 @@
+.card-ciclos {
+    background-color: rgba(255,255,255,0.9);
+    border: 2px solid #007bff;
+    padding: 20px;
+    margin-bottom: 20px;
+    box-shadow: 0 2px 10px rgba(255, 255, 255, 0.5);
+    border-radius: 10px;
+  }
+  
+  .card-ciclos img {
+    max-width: 160px;
+    
+    height: auto;
+    margin-bottom: 10px;
+  }
+  
+  .card-ciclos h5 {
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
+  
+  .card-ciclos .inversion {
+    margin-bottom: 10px;
+  }
+  
+  .card-ciclos .inversion p {
+    font-size: 25px;
+  }
+  
+  .card-ciclos .inversion .currency {
+    font-size: 20px;
+  }
+  
+  .card-ciclos .divider {
+    border-top: 1px solid #ddd;
+    margin: 10px 0;
+  }
+  
+  .card-ciclos .modalidad {
+    color: red;
+    font-weight: bold;
+  }
+  
+  .card-ciclos .inicio {
+    margin-bottom: 10px;
+  }
+  
+  .card-ciclos a {
+    display: inline-block;
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+    margin-top: 10px;
+    transition: 0.2s ease-in-out;
+  }
+  
+  .card-ciclos a:hover {
+    background-color: #0056b3;
+  }
+  
