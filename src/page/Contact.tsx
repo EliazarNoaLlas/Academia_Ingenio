@@ -35,6 +35,7 @@ const Contact = () => {
       data:data
     })
     .then(()=>{
+      // toaster -> todo correcto
       toast.success('Completado exitosamente')
       reset();
 

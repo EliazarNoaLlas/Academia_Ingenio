@@ -41,7 +41,9 @@ app.post('/api/v8/formulario',(req,res)=>{
   }
   aux++
   listAlumnos.push(newAlumno)
+  console.log(listAlumnos)
   res.send({ok:true})
+  
 })
 app.get('*', (req, res) => {
   res.sendFile(path.join(__dirname, '../dist', 'index.html'));

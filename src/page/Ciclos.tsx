@@ -33,7 +33,7 @@ const Ciclos = () => {
         montoPago="600"
         modalidad="Modalidad: Presencial"
         turnos="Turnos: Mañana y Tarde"
-        inicioCiclo="10 y 17 de Julio"
+        inicioCiclo="10 y 17 de Agosto"
         mensajeMatriculateYa="¡Matricúlate ya!"
         duracion='16 semanas'
         precioLuego='700'
